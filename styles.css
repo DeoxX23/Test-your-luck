@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #000000;
+    text-align: center;
+}
+
+img {
+    margin-top: 50px;
+    width: 303px;
+    height: 250px;
+}
+
+input {
+    color: aliceblue;
+    background:rgba(255, 255, 255, 0.25);
+    border-radius: 16px;
+    border: none;
+}
+
+button {
+    margin: 79px auto;
+    width: 142px;
+    height: 32px;
+    background: #AEC346;
+    display: block;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+p {
+    color: #ffffff;
+    margin-top: 59px;
+    margin-bottom: 29px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+button:active {
+    opacity: 0.6;
+}
